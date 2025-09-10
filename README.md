@@ -85,6 +85,9 @@ sudo systemctl restart nginx
 ## Step 7: Access Your Application
 Visit `http://your-ec2-public-ip` in a browser.
 
+## App Screenshot
+![File Upload App](photo_1.jpeg)
+
 ## Conclusion
 Your application is now live on AWS EC2! 🎉 For production, consider using **Elastic Load Balancing (ELB)** and **Auto Scaling** for better scalability.
 
